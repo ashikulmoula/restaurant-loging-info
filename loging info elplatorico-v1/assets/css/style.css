@@ -1,0 +1,575 @@
+/*------------ Fonts Import ------------*/
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap");
+/*--------------------------------------*/
+
+/*===================== Common Typography==============================*/
+* {
+  margin: 0;
+  padding: 0;
+}
+html,
+body,
+div,
+class,
+id,
+section,
+aside,
+article,
+header,
+footer,
+p,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+  transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+}
+
+html,
+body,
+.full-height {
+  height: 100%;
+  width: 100%;
+}
+-.fix {
+  overflow: auto;
+}
+
+body {
+  color: #000;
+  font-family: "Noto Sans ", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.2;
+}
+
+a,
+a:hover,
+a:focus,
+a:active {
+  outline: none;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+}
+
+/*--heading---*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0 0 5px;
+  font-weight: 700;
+  font-family: "Noto Sans ", sans-serif;
+}
+h3 {
+  font-size: 25px;
+}
+h4 {
+  font-size: 20px;
+}
+/*--End heading---*/
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.section-padding {
+  padding: 100px 0;
+}
+.section-padding-80 {
+  padding: 80px 0;
+}
+
+/*===================== End Common Typography==============================*/
+body {
+  background: #aeb7c5;
+}
+.heder-color {
+  background: #f37032;
+  height: 80px;
+}
+
+.bg-img {
+  background-image: url(../images/MaskGroup16.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 250px;
+  position: relative;
+  width: 100%;
+}
+.bg-img::before {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  content: "";
+  background: #333;
+  opacity: 0.2;
+}
+
+.reserver-detsils {
+  height: 180px;
+  position: relative;
+}
+.absolute-account-box {
+  height: 180px;
+  position: relative;
+}
+.absolute-box {
+  position: absolute;
+  left: 15px;
+  top: -80px;
+  width: 100%;
+  height: 180px;
+  background: #ffffff;
+  border-radius: 5px;
+}
+.reserver-detsils .picture-box img {
+  height: 126px;
+  width: 126px;
+  vertical-align: middle;
+  margin-top: 26px;
+  border-radius: 5px;
+}
+.reserver-content {
+  position: absolute;
+  width: 100%;
+  left: 170px;
+  top: 25px;
+  font-family: "Noto Sans ", sans-serif;
+}
+.reserver-content h4 {
+  color: #4a4a4a;
+}
+.reserver-content h6 {
+  color: #4a4a4a;
+  font-size: 14px;
+}
+.reserver-content p {
+  color: #4d4f5c;
+  font-size: 12px;
+}
+
+.save-edit-btn {
+  position: absolute;
+  left: 170px;
+  top: 114px;
+}
+.update-btn {
+  background: #fff;
+  padding: 5px 30px;
+  display: inline-block;
+  border: none;
+  border-radius: 3px;
+  font-size: 12px;
+  font-family: "Noto Sans", sans-serif;
+  color: #4a4a4a;
+  border: 1px solid #9b9b9b;
+}
+
+.reserver-detsils::after {
+  height: 112px;
+  width: 1px;
+  background: #707070;
+  content: "";
+  right: -30px;
+  top: 30px;
+  position: absolute;
+}
+.booking-view {
+  position: absolute;
+  right: -315px;
+  bottom: 35px;
+}
+.loging {
+  position: relative;
+  top: -12px;
+  right: -223px;
+}
+.loging button {
+  padding: 10px 15px;
+  color: #d0021b;
+  background: #fcedef;
+  border-top-right-radius: 5px;
+  border: 1px solid #fcedef;
+}
+.count-box p {
+  color: #707070;
+  padding: 7px 0px;
+  font-size: 15px;
+  font-weight: bold;
+}
+.count-box p .icon {
+  position: relative;
+  left: -6px;
+  margin-top: -1px;
+}
+.count-box p span {
+  float: right;
+  margin-right: -60px;
+}
+
+.account-info {
+  margin-top: -48px;
+}
+.nav-pills .nav-link {
+  background: #fff;
+  border-radius: 0px;
+}
+a.nav-link {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: #4a4a4a;
+  font-weight: bold;
+  font-size: 14px;
+}
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  color: #f37032 !important;
+  background-color: #f5f9ff !important;
+}
+.nav {
+  background: #fff;
+  width: 220px;
+  margin-left: -14px;
+  border-radius: 5px;
+  border-top: 7px solid #f37032;
+  padding: 20px 0px;
+  height: 500px;
+}
+.nav a {
+  list-style: none;
+  display: inline-block;
+  padding: 14px 39px;
+  display: block;
+}
+.nav .icon {
+  position: relative;
+  left: -8px;
+}
+.tab-content > .active {
+  display: block;
+  position: relative;
+  left: 218px;
+  background: #fff;
+  padding: 32px;
+  width: 716px;
+  height: 500px;
+  top: -500px;
+  border-radius: 5px;
+}
+.reward-area {
+  width: 100%;
+}
+
+.navbar li:hover {
+  background: #f5f9ff;
+}
+.navbar li:hover a {
+  color: #f37032;
+}
+.navbar li a {
+  font-size: 14px;
+  color: #4a4a4a;
+}
+.cls-1,
+.cls-2 {
+  stroke: #707070;
+}
+
+.col {
+  padding: 10px;
+  padding: 10px 3px;
+}
+.f-design {
+  display: block;
+  width: 100%;
+  height: 40px;
+  padding: 0.375rem 0.75rem;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #9b9b9b;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ffd7c5;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.profile-titel h3 {
+  font-size: 14px;
+  color: #4a4a4a;
+  margin-left: -10px;
+}
+.submit-btn {
+  background: #f37032;
+  padding: 10px 33px;
+  display: inline-block;
+  border: none;
+  border-radius: 3px;
+  font-size: 12px;
+  font-family: "Noto Sans", sans-serif;
+  color: #ffffff;
+  margin-top: 9px;
+  margin-right: -11px;
+}
+button {
+  background: #f37032;
+  border: none;
+  color: #fff;
+  font-size: 12px;
+}
+.single-box-item {
+  position: relative;
+  width: 100%;
+  padding: 10px 20px;
+  height: 140px;
+  margin-bottom: 5px;
+}
+.reward-img img {
+  height: 110px;
+}
+
+.box-shadow {
+  height: 120px;
+  padding: 5px;
+  box-shadow: 0px 0px 5px 1px #4a90e2;
+  border-radius: 4px;
+}
+.profile-titel h4 {
+  font-size: 14px;
+  color: #4a4a4a;
+  margin-left: 5px;
+}
+.reward-detsils {
+  position: relative;
+  width: 98%;
+}
+.reserver-details {
+  position: absolute;
+  top: 12px;
+  left: 160px;
+  width: 70%;
+}
+.reserver-details .fast {
+  font-size: 18px;
+  font-weight: bold;
+  color: #9b9b9b;
+  padding-bottom: 8px;
+}
+.reserver-details .secend {
+  font-size: 14px;
+  color: #4a4a4a;
+  font-weight: 400;
+  margin-bottom: 4px;
+}
+.reserver-details .last {
+  font-size: 12px;
+  color: #4d4f5c;
+}
+.reserve-iformetion ul {
+  list-style: none;
+  display: block;
+}
+.reserve-iformetion li {
+  display: inline-block;
+  padding: 10px 53px 0px 11px;
+  font-size: 14px;
+  color: #f5a623;
+}
+
+.reserve-iformetion li img {
+  position: relative;
+  height: 14px;
+  left: -6px;
+  top: -2px;
+}
+.reminder-btn.float-right {
+  position: relative;
+  left: 0px;
+  top: -122px;
+}
+.reserve-iformetion {
+  position: relative;
+  left: 157px;
+  top: -30px;
+}
+
+.reminder-btn.float-right button {
+  display: block;
+  padding: 0px;
+  width: 93px;
+  border-radius: 4px;
+  margin-bottom: 5px;
+  height: 30px;
+}
+.remainder-btn {
+  background: #7ed321;
+}
+.cancle-btn {
+  background: #fff;
+  color: #9b9b9b;
+  border: 1px solid #9b9b9b;
+}
+/*  strat My Reservation */
+.reserver-details .re-fast {
+  font-size: 18px;
+  font-weight: bold;
+  color: #9b9b9b;
+  padding-bottom: 8px;
+}
+.reserver-details .wed-text {
+  font-size: 13px;
+  color: #000;
+  line-height: 20px;
+}
+.servise-point {
+  position: relative;
+  top: -8px;
+  left: 15px;
+}
+.servise-point ul {
+  list-style: none;
+  display: block;
+  margin-left: 139px;
+  margin-top: -15px;
+}
+
+.servise-point li {
+  display: inline-block;
+  font-size: 12px;
+  color: #4a4a4a;
+  padding: 0px 7px 0px 6px;
+  position: relative;
+  border-right: 2px solid #707070;
+  top: 1px;
+}
+.servise-point li:last-of-type {
+  border: none;
+}
+.servise-point li span {
+  color: #f37032;
+  margin-left: 3px;
+}
+.rate-point-btn.float-right {
+  position: absolute;
+  right: -10px;
+  top: -6px;
+  color: #f37032;
+}
+.rate-point-btn.float-right h3 span {
+  font-size: 15px;
+  margin-left: -7px;
+}
+.rate-point-btn.float-right img {
+  margin-top: -24px;
+}
+
+/*  End My Reservation */
+
+/*  strat My Favarit */
+
+.favarit-details {
+  position: relative;
+  top: -100px;
+  left: 160px;
+}
+.favarit-details .fast {
+  color: #4a4a4a;
+  font-size: 20px;
+  font-weight: bold;
+}
+.favarit-details ul {
+  position: relative;
+  list-style: none;
+  display: block;
+}
+.favarit-details li {
+  display: inline-block;
+  text-transform: uppercase;
+  color: #9b9b9b;
+  font-size: 12px;
+  border: 1px solid #707070;
+  border-radius: 3px;
+  padding: 1px;
+}
+.favarit-details .secend {
+  font-size: 16px;
+  color: #4a4a4a;
+  margin-top: 15px;
+  margin-top: 10px;
+}
+.favarit-details .secend span {
+  color: #f37032;
+}
+.favarit-details .last {
+  color: #4d4f5c;
+  font-size: 14px;
+  margin-top: 3px;
+  font-weight: 400;
+  margin-left: 3px;
+}
+.Favourite-btn.float-right {
+  position: relative;
+  right: -9px;
+  top: -180px;
+  color: #f37032;
+}
+.Favourite-btn.float-right h3 span {
+  font-size: 15px;
+  margin-left: -7px;
+}
+.Favourite-btn.float-right img {
+  margin-top: -24px;
+}
+.Favourite-btn.float-right .heart-img {
+  position: relative;
+  margin-top: 20px;
+  margin-left: 33px;
+}
+/*  end My Favarit */
+
+/*  strat Update password */
+.fl {
+  display: block;
+  width: 99% !important;
+  height: 40px;
+  padding: 0.375rem 0.75rem;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #9b9b9b;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ffd7c5;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  position: relative;
+  margin-left: 5px;
+  margin-top: 20px;
+}
+.update-pass-btn {
+  background: #f37032;
+  padding: 10px 33px;
+  display: inline-block;
+  border: none;
+  border-radius: 3px;
+  font-size: 12px;
+  font-family: "Noto Sans", sans-serif;
+  color: #ffffff;
+  margin-top: 16px;
+  margin-right: 2px;
+}

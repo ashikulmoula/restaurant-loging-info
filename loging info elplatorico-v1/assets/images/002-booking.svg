@@ -1,0 +1,72 @@
+<svg id="_002-booking" data-name="002-booking" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <g id="Group_14880" data-name="Group 14880">
+    <g id="Group_14879" data-name="Group 14879">
+      <path id="Path_19387" data-name="Path 19387" d="M12.833,1.867H12.6V.7a.7.7,0,0,0-.7-.7h-.467a.7.7,0,0,0-.7.7V1.867H3.267V.7a.7.7,0,0,0-.7-.7H2.1a.7.7,0,0,0-.7.7V1.867H1.167A1.168,1.168,0,0,0,0,3.033v9.8A1.168,1.168,0,0,0,1.167,14H12.833A1.168,1.168,0,0,0,14,12.833v-9.8A1.168,1.168,0,0,0,12.833,1.867ZM11.2,2.1V.7a.233.233,0,0,1,.233-.233H11.9A.233.233,0,0,1,12.133.7V3.033a.233.233,0,0,1-.233.233h-.467a.233.233,0,0,1-.233-.233Zm-9.333,0V.7A.233.233,0,0,1,2.1.467h.467A.233.233,0,0,1,2.8.7V3.033a.233.233,0,0,1-.233.233H2.1a.233.233,0,0,1-.233-.233ZM13.533,12.833a.7.7,0,0,1-.7.7H1.167a.7.7,0,0,1-.7-.7V6.067H13.533Zm0-7.233H.467V3.033a.7.7,0,0,1,.7-.7H1.4v.7a.7.7,0,0,0,.7.7h.467a.7.7,0,0,0,.7-.7v-.7h7.467v.7a.7.7,0,0,0,.7.7H11.9a.7.7,0,0,0,.7-.7v-.7h.233a.7.7,0,0,1,.7.7Z"/>
+    </g>
+  </g>
+  <g id="Group_14882" data-name="Group 14882" transform="translate(4.2 3.033)">
+    <g id="Group_14881" data-name="Group 14881">
+      <path id="Path_19388" data-name="Path 19388" d="M149.367,104h-5.133a.233.233,0,0,0-.233.233v1.4a.233.233,0,0,0,.233.233h5.133a.233.233,0,0,0,.233-.233v-1.4A.233.233,0,0,0,149.367,104Zm-.233,1.4h-4.667v-.933h4.667Z" transform="translate(-144 -104)"/>
+    </g>
+  </g>
+  <g id="Group_14884" data-name="Group 14884" transform="translate(1.4 6.767)">
+    <g id="Group_14883" data-name="Group 14883">
+      <path id="Path_19389" data-name="Path 19389" d="M49.633,232h-1.4a.233.233,0,0,0-.233.233V233.4a.233.233,0,0,0,.233.233h1.4a.233.233,0,0,0,.233-.233v-1.167A.233.233,0,0,0,49.633,232Zm-.233,1.167h-.933v-.7H49.4Z" transform="translate(-48 -232)"/>
+    </g>
+  </g>
+  <g id="Group_14886" data-name="Group 14886" transform="translate(4.433 6.767)">
+    <g id="Group_14885" data-name="Group 14885">
+      <path id="Path_19390" data-name="Path 19390" d="M153.633,232h-1.4a.233.233,0,0,0-.233.233V233.4a.233.233,0,0,0,.233.233h1.4a.233.233,0,0,0,.233-.233v-1.167A.233.233,0,0,0,153.633,232Zm-.233,1.167h-.933v-.7h.933Z" transform="translate(-152 -232)"/>
+    </g>
+  </g>
+  <g id="Group_14888" data-name="Group 14888" transform="translate(7.7 6.767)">
+    <g id="Group_14887" data-name="Group 14887">
+      <path id="Path_19391" data-name="Path 19391" d="M265.633,232h-1.4a.233.233,0,0,0-.233.233V233.4a.233.233,0,0,0,.233.233h1.4a.233.233,0,0,0,.233-.233v-1.167A.233.233,0,0,0,265.633,232Zm-.233,1.167h-.933v-.7h.933Z" transform="translate(-264 -232)"/>
+    </g>
+  </g>
+  <g id="Group_14890" data-name="Group 14890" transform="translate(10.733 6.767)">
+    <g id="Group_14889" data-name="Group 14889">
+      <path id="Path_19392" data-name="Path 19392" d="M369.633,232h-1.4a.233.233,0,0,0-.233.233V233.4a.233.233,0,0,0,.233.233h1.4a.233.233,0,0,0,.233-.233v-1.167A.233.233,0,0,0,369.633,232Zm-.233,1.167h-.933v-.7h.933Z" transform="translate(-368 -232)"/>
+    </g>
+  </g>
+  <g id="Group_14892" data-name="Group 14892" transform="translate(1.4 9.1)">
+    <g id="Group_14891" data-name="Group 14891">
+      <path id="Path_19393" data-name="Path 19393" d="M49.633,312h-1.4a.233.233,0,0,0-.233.233V313.4a.233.233,0,0,0,.233.233h1.4a.233.233,0,0,0,.233-.233v-1.167A.233.233,0,0,0,49.633,312Zm-.233,1.167h-.933v-.7H49.4Z" transform="translate(-48 -312)"/>
+    </g>
+  </g>
+  <g id="Group_14894" data-name="Group 14894" transform="translate(4.433 9.1)">
+    <g id="Group_14893" data-name="Group 14893">
+      <path id="Path_19394" data-name="Path 19394" d="M153.633,312h-1.4a.233.233,0,0,0-.233.233V313.4a.233.233,0,0,0,.233.233h1.4a.233.233,0,0,0,.233-.233v-1.167A.233.233,0,0,0,153.633,312Zm-.233,1.167h-.933v-.7h.933Z" transform="translate(-152 -312)"/>
+    </g>
+  </g>
+  <g id="Group_14896" data-name="Group 14896" transform="translate(7.7 9.1)">
+    <g id="Group_14895" data-name="Group 14895">
+      <path id="Path_19395" data-name="Path 19395" d="M265.633,312h-1.4a.233.233,0,0,0-.233.233V313.4a.233.233,0,0,0,.233.233h1.4a.233.233,0,0,0,.233-.233v-1.167A.233.233,0,0,0,265.633,312Zm-.233,1.167h-.933v-.7h.933Z" transform="translate(-264 -312)"/>
+    </g>
+  </g>
+  <g id="Group_14898" data-name="Group 14898" transform="translate(10.733 9.1)">
+    <g id="Group_14897" data-name="Group 14897">
+      <path id="Path_19396" data-name="Path 19396" d="M369.633,312h-1.4a.233.233,0,0,0-.233.233V313.4a.233.233,0,0,0,.233.233h1.4a.233.233,0,0,0,.233-.233v-1.167A.233.233,0,0,0,369.633,312Zm-.233,1.167h-.933v-.7h.933Z" transform="translate(-368 -312)"/>
+    </g>
+  </g>
+  <g id="Group_14900" data-name="Group 14900" transform="translate(1.4 11.433)">
+    <g id="Group_14899" data-name="Group 14899">
+      <path id="Path_19397" data-name="Path 19397" d="M49.633,392h-1.4a.233.233,0,0,0-.233.233V393.4a.233.233,0,0,0,.233.233h1.4a.233.233,0,0,0,.233-.233v-1.167A.233.233,0,0,0,49.633,392Zm-.233,1.167h-.933v-.7H49.4Z" transform="translate(-48 -392)"/>
+    </g>
+  </g>
+  <g id="Group_14902" data-name="Group 14902" transform="translate(4.433 11.433)">
+    <g id="Group_14901" data-name="Group 14901">
+      <path id="Path_19398" data-name="Path 19398" d="M153.633,392h-1.4a.233.233,0,0,0-.233.233V393.4a.233.233,0,0,0,.233.233h1.4a.233.233,0,0,0,.233-.233v-1.167A.233.233,0,0,0,153.633,392Zm-.233,1.167h-.933v-.7h.933Z" transform="translate(-152 -392)"/>
+    </g>
+  </g>
+  <g id="Group_14904" data-name="Group 14904" transform="translate(7.535 11.284)">
+    <g id="Group_14903" data-name="Group 14903">
+      <path id="Path_19399" data-name="Path 19399" d="M260.2,386.88l-1,1.2-.519-.519-.33.33.7.7a.232.232,0,0,0,.165.068h.01a.235.235,0,0,0,.169-.084l1.167-1.4Z" transform="translate(-258.344 -386.88)"/>
+    </g>
+  </g>
+  <g id="Group_14906" data-name="Group 14906" transform="translate(10.335 11.284)">
+    <g id="Group_14905" data-name="Group 14905">
+      <path id="Path_19400" data-name="Path 19400" d="M356.2,386.88l-1,1.2-.519-.519-.33.33.7.7a.232.232,0,0,0,.165.068h.01a.235.235,0,0,0,.169-.084l1.167-1.4Z" transform="translate(-354.344 -386.88)"/>
+    </g>
+  </g>
+</svg>
